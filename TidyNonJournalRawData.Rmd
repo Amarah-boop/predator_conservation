@@ -1,0 +1,141 @@
+---
+title: "Predator_Conservation_EDA"
+author: "Khadijah Amarah Moosa"
+date: "2025-02-20"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Write here ---------------------------------------------------
+
+```{r loading libraries}
+library(openxlsx)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+```
+
+------------------------------------------------
+```{r reading file}
+raw_data <- read.xlsx("C:/Users/Student/Documents/GitHub Deliverable/predator_conservation/NonJournalRawData.xlsx")
+
+```
+
+
+WRITE-------------------------------
+```{r EDA}
+
+# check top 5 rows to ensure data loaded correctly 
+head(raw_data, 5)
+
+# check column names to see if tidy
+colnames(raw_data)
+
+```
+```{r tidy data}
+
+# rename columns
+tidy_data <- raw_data %>%
+  rename(
+    Paper = `Paper`,
+    Journal = `Journal.(1)/non-journal(0)`,  # Renaming for clarity
+    Study_Design = `Study.design`,
+    Predator_Species = `Predator.species`,
+    Protected_Assets = `Protected.assets`,
+    Intervention_Category = `Category.of.intervention`,
+    Intervention_Type = `Type.of.intervention`,
+    Intervention_Details = `Intervention.details`,
+    Country = `Country`,
+    Damage_Metric = `Damage.metric`,
+    Relative_Risk_RR = `Relative.risk.RR`
+  )
+
+# view the renamed dataset
+head(tidy_data)
+
+```
+---------------------------------------------
+```{r}
+
+# Separate multiple values into different rows
+tidy_data <- tidy_data %>%
+  separate_rows(Predator_Species, sep = ", ") %>%
+  separate_rows(Protected_Assets, sep = ", ")
+
+# View the transformed dataset
+head(tidy_data)
+
+# Convert column types
+tidy_data <- tidy_data %>%
+  mutate(
+    Paper = as.character(Paper),  # Convert Paper names to character
+    Journal = as.factor(Journal),  # Convert Journal column to factor (categorical)
+    Study_Design = as.factor(Study_Design),  # Convert study design to factor
+    Predator_Species = as.factor(Predator_Species),  # Convert predator species to factor
+    Protected_Assets = as.factor(Protected_Assets),  # Convert protected assets to factor
+    Intervention_Category = as.factor(Intervention_Category),  # Convert intervention category to factor
+    Intervention_Type = as.factor(Intervention_Type),  # Convert intervention type to factor
+    Intervention_Details = as.character(Intervention_Details),  # Keep as character
+    Country = as.factor(Country),  # Convert country to factor
+    Damage_Metric = as.character(Damage_Metric),  # Keep as character (might need more cleaning)
+    Relative_Risk_RR = as.numeric(Relative_Risk_RR)  # Convert to numeric for calculations
+  )
+
+# Check structure of the updated dataset
+str(tidy_data)
+```
+
+
+```{r}
+summary_data <- tidy_data %>%
+  group_by(Study_Design, Journal) %>%
+  summarise(
+    median_RR = median(Relative_Risk_RR),
+    min_RR    = min(Relative_Risk_RR),
+    max_RR    = max(Relative_Risk_RR),
+    count     = n(),
+    .groups   = "drop"
+  )
+
+ggplot(summary_data, aes(x = Study_Design, y = median_RR, color = factor(Journal))) +
+  geom_point(
+    position = position_dodge(width = 0.5),
+    size = 4
+  ) +
+  geom_errorbar(
+    aes(ymin = min_RR, ymax = max_RR),
+    position = position_dodge(width = 0.5),
+    width = 0.2,
+    size = 1
+  ) +
+  # ─────────────────────────────────────────────────────────────
+  # Add text for count at the top of each error bar
+  geom_text(
+    aes(label = count, y = max_RR),             # Place label at max_RR
+    position = position_dodge(width = 0.5),     # Same dodge
+    vjust = -0.5,                               # Slightly above the error bar
+    size = 3,                                   # Text size
+    color = "black"                             # Text color (can also map to Journal)
+  ) +
+  # ─────────────────────────────────────────────────────────────
+  scale_color_manual(
+    values = c("red", "blue"),
+    labels = c("Non-journals", "Journals")
+  ) +
+  labs(
+    title = "Study Design vs. Relative Risk (RR)",
+    x = "Study Design",
+    y = "Relative Risk (RR)",
+    color = "Journal Type"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  
+```
+
+Figure 1:xxxxxx-------------
