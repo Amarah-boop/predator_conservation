@@ -1,0 +1,509 @@
+"Paper","Journal.(1)/non-journal(0)","Study.design","Predator.species","Protected.assets","Category.of.intervention","Type.of.intervention","Intervention.details","Country","Damage.metric","Relative.risk.RR"
+"Acorn and Dorrance 1994 ",0,"before-after","coyote","sheep","husbandry","electric fence","electric fence","Canada","No. killed/farm",0.398809523809524
+"Agvaantseren et al. 2016",0,"before-after","snow leopard","livestock in general","non-invasive management","capacity building","handicrafts","Mongolia","No. predators killed",0
+"Alexander et al. 2015",1,"control-impact","snow leopard, Eurasian lynx, wolf and brown bear","sheep/goats, yak, horses, mules and donkeys","husbandry","herding","herding","China","% depredation events",2.95652173913043
+"Ali et al. 2016",1,"control-impact","gray wolf","cattle and sheep/goats","husbandry","herding","herding","Pakistan","% losses",0.229508196721311
+"Ali et al. 2016",1,"control-impact","gray wolf","cattle and sheep/goats","husbandry","guarding animals","guarding dogs","Pakistan","% losses",0.557377049180328
+"Alldredge et al. 2015",1,"before-after","American black bear","livestock in general and neighborhood safety","invasive management","translocation","translocation","USA","No. returning",0.212121212121212
+"Alldredge et al. 2019",1,"before-after","puma","livestock in general","aversion","physical deterrent","shortgun with bean bag rounds","USA","No. predators resuming damage infliction",0.75
+"Allen 2000",0,"before-after","dingo","cattle","lethal control","poisoning","baiting (poison)","Australia","% killed/living",5.87
+"Allen 2014",1,"RCT","dingo","cattle","lethal control","poisoning","baiting (poison)","Australia","proportion of died/year",1.99397031943413
+"Allen and Leung 2014",1,"control-impact","dingo","cattle","lethal control","poisoning","baiting (poison)","Australia","proportion of cattle in scats",0.925714285714286
+"Andelt 1992",1,"control-impact","coyote","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.167832167832168
+"Andelt 1992",1,"control-impact","coyote","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.347826086956522
+"Andelt 1999",1,"before-after","coyote","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",1.0283395950471
+"Andelt 1999",1,"before-after","coyote","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.665308581082661
+"Andelt 1999",1,"before-after","American black bear","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",3.44158642360606
+"Andelt 1999",1,"before-after","American black bear","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",1.98887263621632
+"Andelt 1999",1,"before-after","puma","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",9.73935129560779
+"Andelt 1999",1,"before-after","puma","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.178086911286521
+"Andelt 1999",1,"before-after","domestic dog","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.246076536528798
+"Andelt and Gipson 1979",1,"before-after","coyote","turkey","lethal control","trapping","trapping of problem animals","USA","No. killed/year",0.418181818181818
+"Andelt and Hopper 2000",1,"control-impact","coyote - 1986","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.136363636363636
+"Andelt and Hopper 2000",1,"control-impact","coyote - 1986","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.363636363636364
+"Andelt and Hopper 2000",1,"control-impact","coyote - 1993","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.551724137931034
+"Andelt and Hopper 2000",1,"control-impact","coyote - 1993","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",1.71428571428571
+"Andelt and Hopper 2000",1,"control-impact","puma - 1993","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.285714285714286
+"Andelt and Hopper 2000",1,"control-impact","puma - 1993","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.142857142857143
+"Andelt and Hopper 2000",1,"control-impact","American black bear - 1993","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.375
+"Andelt and Hopper 2000",1,"control-impact","American black bear - 1993","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.333333333333333
+"Andelt and Hopper 2000",1,"control-impact","domestic dog - 1993","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.5
+"Andelt and Hopper 2000",1,"control-impact","domestic dog - 1993","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","No. killed",0.333333333333333
+"Andelt et al. 1999",1,"crossover","coyote","sheep (lamb)","invasive management","shock collar","shock collar","USA","No. killed",0
+"Anderson et al. 2002",1,"before-after","brown bear","cattle","aversion","acoustic deterrent","yelling + discharging firearms + vehicle horns","USA","probability of depredation",0
+"Anderson et al. 2002",1,"before-after","brown bear","cattle","invasive management","translocation","translocation","USA","probability of depredation",1
+"Anderson et al. 2002",1,"before-after","brown bear","cattle","lethal control","shooting","shooting","USA","probability of depredation",0
+"Angst 2001",0,"before-after","Eurasian lynx","fallow deer","husbandry","electric fence","electric fence","Switzerland","No. killed/enclosure",0
+"Angst et al. 2002",0,"control-impact","Eurasian lynx","sheep","husbandry","herding","herding","Switzerland","No. killed",0.354838709677419
+"Anonymous 1997",0,"before-after","lion","goats","invasive management","translocation","translocation","Zimbabwe","No. predators resuming damage infliction",0.25
+"Appleby et al. 2017",1,"crossover","dingo","neighborhood safety","aversion","physical deterrent","motorized water pistol","Australia","No. failing occasions",0.231900452488688
+"Armistead et al. 1994",0,"before-after","American black bear","sheep","invasive management","translocation","translocation","USA","No. predators resuming damage infliction ",0
+"Athreya 2012",0,"RCT","leopard","livestock in general","husbandry","enclosure","enclosure (night)","India","No. killed",0.167691957165641
+"Athreya 2012",0,"RCT","leopard","livestock in general","husbandry","guarding animals","guarding dogs","India","No. killed",1.48837209302326
+"Athreya et al. 2010",1,"before-after","leopard","livestock in general","invasive management","translocation","translocation","India","No. attacks/year",1.56603773584906
+"Ausband et al. 2013",1,"before-after","gray wolf","sheep","aversion","chemical deterrent","wolf scats and urine","USA","No. trespassing locations",0.676776610364853
+"Aziz 1998",0,"before-after","tiger","cattle","non-invasive management","capacity building","compensation from compensation fund","India","No. predators killed",0
+"Bagchi et al. 2020",1,"before-after","snow leopard","livestock in general","non-invasive management","livestock exclusion + capacity building + herding","livestock-free set-asides + insurance + herding","India","% livestock in diet",0.76155462184874
+"Baker et al. 2007",1,"BACI","red fox","bait (biscuit)","aversion","chemical deterrent","ziram","UK","No. visits",0.519275271757027
+"Barrett et al. 2014",1,"before-after","American black bear","neighborhood safety","non-invasive management","food/garbage isolation","bear-proof bins","USA","% damage records",0.1401737830033
+"Baruch-Mordo et al. 2011",1,"BACI","American black bear","neighborhood safety","non-invasive management","capacity building","on-site education","USA","probability of rule violation",0.421190663519538
+"Baruch-Mordo et al. 2011",1,"BACI","American black bear","neighborhood safety","non-invasive management","capacity building","Bear Aware campaign","USA","probability of trash availability",1.1568887006248
+"Baruch-Mordo et al. 2011",1,"BACI","American black bear","neighborhood safety","non-invasive management","capacity building","patrolling + notices","USA","probability of rule violation",1.01655508216677
+"Bauder et al. 2020",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. returning",0.640449438202247
+"Bauer et al. 2010",1,"control-impact","lion","cattle","husbandry","enclosure","enclosure (night)","Benin","No. killed",0.333333333333333
+"Bauer et al. 2010",1,"control-impact","lion","sheep/goats","husbandry","enclosure","enclosure (night)","Benin","No. killed",0.0714285714285714
+"Bauer et al. 2010",1,"control-impact","lion","cattle","husbandry","enclosure","enclosure (night)","Cameroon","No. killed",0
+"Bauer et al. 2010",1,"control-impact","lion","sheep/goats","husbandry","enclosure","enclosure (night)","Cameroon","No. killed",0
+"Bauer et al. 2010",1,"control-impact","spotted hyena","sheep/goats","husbandry","enclosure","enclosure (night)","Cameroon","No. killed",0
+"Bauer et al. 2010",1,"control-impact","spotted hyena","cattle","husbandry","enclosure","enclosure (night)","Benin","No. killed",0
+"Bauer et al. 2010",1,"control-impact","spotted hyena","sheep/goats","husbandry","enclosure","enclosure (night)","Benin","No. killed",0.56
+"Bauer et al. 2017",1,"before-after","lion","cattle and sheep/goats","non-invasive management","capacity building","compensation from tourist fees","Kenya","No. predators killed",0.111111111111111
+"Beckmann et al. 2004",1,"RCT","American black bear","neighborhood safety","aversion","chemical deterrent + physical deterrent + acoustic deterrent","pepper spray + rubber bullet + cracker shell","USA","No. returning",0.952380952380953
+"Beckmann et al. 2004",1,"RCT","American black bear","neighborhood safety","aversion","chemical deterrent + physical deterrent + acoustic deterrent + dogs","pepper spray + rubber bullet + cracker shell + dogs","USA","No. returning",0.8
+"Beeman and Pelton 1976",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. translocation events with homing",0.462006079027356
+"Binge 2017",0,"before-after","predators in general","sheep/goats","husbandry","guarding animals","guarding dogs","South Africa","No. respondents with depredation",0.527083333333333
+"Bjorge and Gunson 1985",1,"before-after","gray wolf","cattle","lethal control","poisoning","strychnine baiting","Canada","No. killed/year",0.658492514197212
+"Blanchard and Knight 1995",1,"before-after","brown bear","neighborhood safety","invasive management","translocation","translocation","USA","No. translocation events with homing",0.956521739130435
+"Blejwas et al. 2002",1,"before-after","coyote","sheep (lamb)","lethal control","poisoning","toxic collar","USA","No. killed",0.280701754385965
+"Blejwas et al. 2002",1,"before-after","coyote","sheep (ewe)","lethal control","poisoning","toxic collar","USA","No. killed",0.269965277777778
+"Bourne and Dorrance 1982",1,"BACI","coyote","sheep","aversion","chemical deterrent","LiCl","Canada","No. killed",0.47355623100304
+"Bradley et al. 2005",1,"control-impact","gray wolf","livestock in general","invasive management","translocation","translocation","USA","No. wolves preying on livestock",0.615740740740741
+"Bradley et al. 2015",1,"control-impact","gray wolf","cattle, sheep/goats, llama and horses","lethal control","trapping and shooting","full pack removal","USA","probability of depredation",0.21
+"Bradley et al. 2015",1,"control-impact","gray wolf","cattle, sheep/goats, llama and horses","lethal control","trapping and shooting","partial pack removal","USA","probability of depredation",0.71
+"Breck et al. 2002",0,"control-impact","gray wolf","cattle (calves)","invasive management + acoustic deterrent","GPS collar-activated acoustic and visual deterrents","GPS collar-activated sounds and strobe light","USA","No. killed",0
+"Breck et al. 2006",1,"control-impact","American black bear","neighborhood safety","aversion","physical deterrent","shocking device","USA","No. damage records",0
+"Breck et al. 2011",1,"control-impact","puma","cattle","non-invasive management","breeding control","breeding control","USA","No. killed",0
+"Breck et al. 2011",1,"control-impact","gray wolf","cattle","non-invasive management","breeding control","breeding control","USA","No. killed",0
+"Breck et al. 2011",1,"control-impact","American black bear","cattle","non-invasive management","breeding control","breeding control","USA","No. killed",0
+"Breck et al. 2011",1,"control-impact","coyote","cattle","non-invasive management","breeding control","breeding control","USA","No. killed",0
+"Breck et al. 2017",1,"before-after","coyote","neighborhood safety","lethal control","shooting","shooting","USA","No. removals with recurrence",0.333333333333333
+"Breck et al. 2017",1,"control-impact","coyote","neighborhood safety","aversion","acoustic deterrent + visual deterrent + physical deterrent","yelling + approaching + throwing objects","USA","No. camera-trap pictures/site",1.40833333333333
+"Bromley and Gese 2001",1,"RCT","coyote","sheep","invasive management","sterilization","surgery","USA","No. killed/week",0.145299145299145
+"Burns 1980",1,"control-impact","coyote","sheep","aversion","chemical deterrent","LiCl","USA","proportion of killed/offered",0.583333333333333
+"Burns 1983",1,"BACI","coyote","sheep","aversion","chemical deterrent","LiCl","USA","No. predators resuming damage infliction",1
+"Burns and Connolly 1980",0,"control-impact","coyote","jackrabbits","aversion","chemical deterrent","LiCl","USA","No. killed and consumed",1.16666666666667
+"Burns and Connolly 1980",0,"control-impact","coyote","chickens","aversion","chemical deterrent","LiCl","USA","No. killed and consumed",1.11111111111111
+"Burns and Mason 1996",0,"before-after","coyote","sheep","aversion","chemical deterrent","collar with capsicum oleo resin","USA","No. predators attacking",1
+"Burns et al. 1984",0,"control-impact","coyote","sheep","lethal control","poisoning ","toxic collar","USA","No. attacks with kills",0.400824572253144
+"Burns et al. 1988",0,"before-after","coyote","sheep","lethal control","poisoning ","toxic collar","USA","No. predators attacking",0.857142857142857
+"Burns et al. 1996",1,"before-after","coyote","sheep (lamb)","lethal control","poisoning","toxic collar","USA","No. killed",0.736842105263158
+"Campbell et al. 2019",1,"control-impact","dingo","cattle","lethal control","poisoning","baiting (poison)","Australia","fetal/calf loss",1.14942528735632
+"Cavalcanti et al. 2012",0,"before-after","jaguar","cattle","husbandry","electric fence","electric fence","Brazil","No. killed",1.42857142857143
+"Christiansen et al. 2001",1,"before-after","domestic dog","sheep","invasive management","shock collar","shock collar","Norway","% attacking predators",0.270783847980998
+"Ciucci and Boitani 1998",1,"control-impact","gray wolf","sheep","husbandry","herding","herding","Italy","% attacks",0.0317460317460317
+"Ciucci and Boitani 1998",1,"control-impact","gray wolf","sheep","husbandry","guarding animals","guarding dogs","Italy","% attacks",0.238095238095238
+"Clark et al. 2002",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. failures",0.347712418300654
+"Clark et al. 2005",1,"control-impact","American black bear","beehive","husbandry","electric fence","electric fence","USA","No. damage records",1
+"Clark et al. 2005",1,"before-after","American black bear","beehive","invasive management","translocation","translocation","USA","No. returning",0.333333333333333
+"Comly-Gericke and Vaughan 1997",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. predators resuming damage infliction ",0.00471698113207547
+"Connolly and Burns 1990",0,"before-after","coyote","sheep (captive)","lethal control","poisoning","toxic collar","USA","No. killed",0.829268292682927
+"Connolly and Burns 1990",0,"control-impact","coyote","sheep (field)","lethal control","poisoning","toxic collar","USA","No. attacks",1.01492537313433
+"Conover et al. 1977",1,"control-impact","coyote","chickens","aversion","chemical deterrent","LiCl","USA","No. foods consumed fully and partly after treatment",0.618846694796062
+"Coppinger et al. 1988",0,"before-after","predators in general","livestock in general","husbandry","guarding animals","guarding dogs","USA","No. attacks",0.77
+"Cornell and Cornely 1979",1,"before-after","coyote","neighborhood safety","aversion","chemical deterrent","LiCl","USA","No. begging cases ",0
+"Dar et al. 2009",1,"control-impact","leopard","cattle, sheep/goats, donkeys and horses","husbandry","herding","herding","Pakistan","% attacks",4.37912087912088
+"Dar et al. 2009",1,"control-impact","leopard","cattle, sheep/goats, donkeys and horses","husbandry","guarding animals","guarding dogs","Pakistan","% attacks",1.2967032967033
+"Darrow and Shivik 2009",1,"before-after","coyote","captive","aversion","acoustic deterrent","noise","USA","No. pairs habituating",0.8
+"Darrow and Shivik 2009",1,"before-after","coyote","captive","aversion","visual deterrent","strobe light","USA","No. pairs habituating",0.2
+"Darrow and Shivik 2009",1,"before-after","coyote","captive","aversion","acoustic deterrent + visual deterrent","noise + strobe light","USA","No. pairs habituating",0
+"Davidson-Nelson and Gehring 2010",1,"RCT","gray wolf","cattle, sheep and horses","aversion","visual deterrent","fladry","USA","No. visits inside/outside livestock areas",0.082832660297449
+"Davies and Rockwell 1986",1,"before-after","polar bear","neighborhood safety","husbandry","electric fence","electric fence","Canada","No. predators trespassing",0
+"deCalesta and Cropsey 1978",1,"control-impact","coyote","sheep","husbandry","enclosure","enclosure","USA","No. killed",0
+"di Vittorio et al. 2016",0,"before-after","brown bear","livestock in general, beehives and crops","husbandry","electric fence","electric fence","Italy","No. damage records",0.167
+"Dondina et al. 2015",1,"control-impact","gray wolf","cattle","husbandry","guarding animals + enclosure","guarding dogs + enclosure (night)","Italy","% depredation events",0.623376623376623
+"Dorrance and Bourne 1980",1,"before-after","coyote","sheep","husbandry","electric fence","electric fence","Canada","No. killed/farm",0.161576354679803
+"Dorrance and Roy 1978",0,"RCT","American black bear","beehive","aversion","chemical deterrent","LiCl","Canada","No. beehives damaged, 1975",0.677700348432056
+"Dorrance and Roy 1978",0,"RCT","American black bear","beehive","aversion","chemical deterrent","LiCl","Canada","No. beehives damaged, 1976",0.530612244897959
+"Dorrance and Roy 1978",0,"RCT","American black bear","beehive","aversion","chemical deterrent","Cupric sulphate","Canada","No. beehives damaged, 1976",0.446258503401361
+"Edgar et al. 2007",1,"crossover","dingo","bait (tuna)","aversion","acoustic deterrent","untrasound device","Australia","No. occasions with bait consumption",0.95
+"Ellins 2005",0,"before-after","coyote","sheep","aversion","chemical deterrent","LiCl","USA","No. killed/week",0.171978021978022
+"Ellins and Catalano 1980",1,"before-after","coyote","sheep","aversion","chemical deterrent","LiCl","USA","No. killed",0.253607503607504
+"Ellins and Catalano 1980",1,"before-after","coyote","turkey","aversion","chemical deterrent","LiCl","USA","No. killed",0.45
+"Espuno et al. 2004",1,"control-impact","gray wolf","sheep/goats","husbandry","guarding animals","guarding dogs","France","% killed",0.246
+"Espuno et al. 2004",1,"control-impact","gray wolf","sheep/goats","husbandry","guarding animals + enclosure","guarding dogs + enclosure (night)","France","% killed",0.1
+"Fernandez-Gil et al. 2016",1,"control-impact","gray wolf","livestock in general","lethal control","shooting","shooting","Spain","No. killed in current year",2.67532046156312
+"Fernandez-Gil et al. 2016",1,"control-impact","gray wolf","livestock in general","lethal control","shooting","shooting","Spain","No. killed in previous year",2.66602996239126
+"Fernando 2016",0,"control-impact","leopard","cattle","aversion","visual deterrent","fire","Sri Lanka","% killed",1.06382978723404
+"Fernando 2016",0,"control-impact","leopard","cattle","aversion","visual deterrent","flash light","Sri Lanka","% killed",0.865384615384615
+"Fernando 2016",0,"control-impact","leopard","cattle","aversion","visual deterrent","scarecrow","Sri Lanka","% killed",1.1063829787234
+"Fernando 2016",0,"control-impact","leopard","cattle","aversion","acoustic deterrent","aluminum sheets","Sri Lanka","% killed",0.372549019607843
+"Fernando 2016",0,"control-impact","leopard","cattle","aversion","spiritual deterrent","chanting mantras","Sri Lanka","% killed",1.27659574468085
+"Fernando 2016",0,"control-impact","leopard","cattle","husbandry","enclosure","enclosure (night)","Sri Lanka","No. killed/year",0.107142857142857
+"Fernando 2016",0,"control-impact","leopard","cattle","husbandry","enclosure","enclosure (night)","Sri Lanka","No. predators killed",0
+"Fies et al. 1987",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. predators returning home",0.121212121212121
+"Fredrikkson 2005",1,"control-impact","sun bear","tree plantations","aversion","physical deterrent","metal sheeting","Indonesia","No. damage records",0
+"Fritts et al. 1984",1,"before-after","gray wolf","livestock in general","invasive management","translocation","translocation","USA","No. translocation events with homing",0.3
+"Garrote et al. 2013",1,"control-impact","Iberian lynx","poultry","husbandry","enclosure","wire fenced coop ","Spain","No. enclosures attacked ",0.0909090909090909
+"Garrote et al. 2015",1,"control-impact","Iberian lynx","sheep","husbandry","electric fence","electric fence","Spain","No. killed",0
+"Gates et al. 1978",1,"control-impact","coyote","sheep","husbandry","electric fence","electric fence","USA","No. killed/day",0
+"Gehring et al. 2006",0,"BACI","gray wolf","bait (deer)","invasive management","shock collar","shock collar","USA","visitation rate",0.15
+"Gehring et al. 2006",0,"RCT","gray wolf","bait (deer)","aversion","visual deterrent","fladry","USA","visitation rate",0
+"Gehring et al. 2010",1,"BACI","gray wolf","cattle","husbandry","guarding animals","guarding dogs","USA","No.visits/day inside/outside livestock areas",0
+"Gehring et al. 2010",1,"BACI","coyote","cattle","husbandry","guarding animals","guarding dogs","USA","No.visits/day inside/outside livestock areas",0.137566137566138
+"Gillin et al. 1994",1,"before-after","brown bear","neighborhood safety","aversion","acoustic deterrent + physical deterrent","bird sounds + shortgun and gun rubber bullets","USA","No. returning",0.5
+"Gonzalez et al. 2012",1,"BACI","Andean fox ","goats","husbandry","guarding animals","guarding dogs","Argentina","No. ranchers killing predators",0.125
+"Gonzalez et al. 2012",1,"BACI","puma","goats","husbandry","guarding animals","guarding dogs","Argentina","No. ranchers killing predators",0.125
+"Goodrich and Miquelle 2005",1,"before-after","tiger","dogs","invasive management","translocation","translocation","Russia","No. predators resuming damage infliction",0.25
+"Goodrich et al. 2011",1,"before-after","tiger","livestock in general","aversion","acoustic deterrent + physical deterrent","rocket + gunshot + vehicle chasing","Russia","No. predators resuming damage infliction",4.22222222222222
+"Gore et al. 2008",1,"BACI","American black bear","neighborhood safety","non-invasive management","food/garbage isolation","food/garbage removal","USA","% negative responses",0.574108905963159
+"Gore et al. 2008",1,"BACI","American black bear","neighborhood safety","non-invasive management","change of habits","not feeding pets outdoors","USA","% negative responses",0.588235294117647
+"Gore et al. 2008",1,"BACI","American black bear","neighborhood safety","non-invasive management","change of habits","storing barbecue stuff indoors","USA","% negative responses",0.988826815642458
+"Gore et al. 2008",1,"BACI","American black bear","neighborhood safety","non-invasive management","change of habits","using birdfeeders in cold time","USA","% negative responses",1.19534555712271
+"Gore et al. 2008",1,"BACI","American black bear","neighborhood safety","non-invasive management","vegetation care","harvesting fruits from trees","USA","% negative responses",0.988524590163935
+"Green 1989",0,"before-after","predators in general","sheep","husbandry","guarding animals","guarding dogs","USA","No. killed",0.182874268588554
+"Green and Woodruff 1983",1,"before-after","American black bear, coyote, puma and bobcat","sheep","husbandry","guarding animals","guarding dogs","USA","No. killed",0.180661182645116
+"Greentree et al. 2000",1,"BACI","red fox","sheep (lamb)","lethal control","poisoning","baiting (poison)","Australia","% killed",0.485106382978723
+"Griffiths et al. 1978",0,"before-after","coyote","sheep (lamb)","aversion","chemical deterrent","LiCl","USA","% killed",2.06154457018066
+"Griffiths et al. 1978",0,"before-after","coyote","sheep","aversion","chemical deterrent","LiCl","Canada","No. killed",0.337443946188341
+"Guerisoli et al. 2017",1,"control-impact","puma","sheep","husbandry","enclosure","enclosure (night)","Argentina","% killed",0.366271403015589
+"Gurung et al. 2011",0,"before-after","snow leopard","yak (juveniles)","non-invasive management","capacity building","insurance","Nepal","No. predators killed/year",0
+"Gustavson et al. 1974",1,"before-after","coyote","lambs","aversion","chemical deterrent","LiCl","USA","No. attacks ",0.4
+"Gustavson et al. 1974",1,"before-after","coyote","rabbits","aversion","chemical deterrent","LiCl","USA","No. attacks ",0.5
+"Gustavson et al. 1982",1,"before-after","coyote","sheep","aversion","chemical deterrent","LiCl","Canada","% killed/year",0.126310272536688
+"Hamr et al. 2015",1,"before-after","American black bear","livestock in general and neighborhood safety","lethal control","shooting","shooting","Canada","No. culprit captures",0.318271119842829
+"Hansen and Smith 1999",1,"control-impact","brown bear","sheep","husbandry","guarding animals","guarding dogs","Norway","No. killed",1.41666666666667
+"Hansen et al. 1997",1,"before-after","domestic dog","sheep","aversion","chemical deterrent","LiCl","Norway","No. attacks/min",2.18333333333333
+"Hansen et al. 2002",1,"crossover","brown bear, Eurasian lynx and wolverine","sheep","husbandry","guarding animals","guarding dogs","Norway","% killed",0.662559502877069
+"Hawley et al. 2009",1,"BACI","gray wolf","bait (deer)","invasive management","shock collar","shock collar","USA","mean No. visits to detection and shock zones",0.325422974914069
+"Hazzah et al. 2014",1,"before-after","lion","cattle","non-invasive management","capacity building","compensation from compensation fund","Kenya","No. predators killed/year",0.565284178187404
+"Hazzah et al. 2014",1,"before-after","lion","cattle","non-invasive management","capacity building","Lion Guardians","Kenya","No. predators killed/year",0
+"Heard and Stephenson 1987",1,"before-after","black-backed jackal","sheep/goats","husbandry","electric fence","electric fence","South Africa","No. holes dug/week",0.0680041688379364
+"Herfindal et al. 2005",1,"before-after","Eurasian lynx","sheep (lamb)","lethal control","shooting","recreational hunting","Norway","% killed",1.02165185846749
+"Herrero and Higgins 1998",1,"before-after","brown bear","neighborhood safety","aversion","chemical deterrent","pepper spray","USA/Canada","No. returning",0.2375
+"Herrero and Higgins 1998",1,"before-after","American black bear","neighborhood safety","aversion","chemical deterrent","pepper spray","USA/Canada","No. returning",0.846153846153846
+"Hipolito et al. 2020",1,"control-impact","brown bear","cattle and sheep/goats","husbandry","enclosure","enclosure","Croatia","No. killed/attack",1.48888888888889
+"Hipolito et al. 2020",1,"control-impact","brown bear","rabbits","husbandry","enclosure","enclosure","Croatia","No. killed/attack",1.54385964912281
+"Hipolito et al. 2020",1,"control-impact","brown bear","beehive","husbandry","enclosure","enclosure","Croatia","No. damaged/attack",1.97883597883598
+"Honda et al. 2009",1,"control-impact","Asiatic black bear","apple orchard","husbandry","electric fence","electric fence","Japan","No. records inside/outside",0
+"Honda et al. 2009",1,"control-impact","red fox","non-cultivated fields","husbandry","electric fence","electric fence","Japan","No. records inside/outside",0
+"Hoogesteijn et al. 2016",0,"before-after","puma and jaguar","cattle","husbandry","electric fence","electric fence","Brazil","% losses",0.112910284463895
+"Hoogesteijn et al. 2016",0,"control-impact","puma and jaguar","cattle","husbandry","electric fence","electric fence","Brazil","No. killed/100 km2",0.0739562624254473
+"Hoover and Conover 1998",1,"before-after","coyote","captive (food)","aversion","chemical deterrent","irritating chemicals","USA","% food consumed",0.980851063829787
+"Hoover and Conover 1998",1,"before-after","coyote","captive (eggs)","aversion","chemical deterrent","irritating chemicals","USA","% food consumed",0.464859437751004
+"Hoover and Conover 2000",1,"before-after","coyote","captive (eggs)","aversion","chemical deterrent","pulegone (injected)","USA","% eggs opened and/or consumed",0.7516
+"Hoover and Conover 2000",1,"control-impact","coyote","captive (eggs)","aversion","chemical deterrent","pulegone (dipped)","USA","% predators which chose treatments",0.129851095889095
+"Hoover and Conover 2000",1,"control-impact","coyote","captive (eggs)","aversion","chemical deterrent","pulegone (injected)","USA","% predators which chose treatments",0.387670726246355
+"Hopkins and Kalinowski 2013",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. returning",0.551724137931034
+"Horgan 2015",0,"before-after","predators in general","livestock in general","husbandry","guarding animals","guarding dogs","Botswana","No. killed/farm and year",0.214285714285714
+"Horn 1983",1,"before-after","coyote","bait (rabbits)","aversion","chemical deterrent","LiCl","USA","No. killed",0.2
+"Horn 1983",1,"before-after","coyote","bait (rabbits)","invasive management","intraperitoneal injection","injection (LiCl)","USA","No. killed",0.5
+"Houben et al. 2004",0,"control-impact","coyote","sheep (lamb)","lethal control","shooting, trapping, poisoning","shooting, trapping, poisoning","USA","No. killed/farm/year",0.373792669498191
+"Huygens and Hayashi 1999",1,"control-impact","Asiatic black bear","crops and beehives","husbandry","electric fence","electric fence","Japan","No. damage records",0
+"Iliopoulos et al. 2009",1,"control-impact","gray wolf","sheep/goats","husbandry","herding","herding","Greece","No. killed/attack",0.435435435435435
+"Iliopoulos et al. 2019",1,"before-after","gray wolf","bait (sheep/goat carcass)","aversion","visual deterrent","fladry","Greece","No. feeding events/day",0
+"Iliopoulos et al. 2019",1,"before-after","brown bear","bait (sheep/goat carcass)","aversion","visual deterrent","fladry","Greece","No. feeding events/day",0.288927536231884
+"Jackson and Wangchuk 2004",1,"before-after","snow leopard","sheep/goat","husbandry","enclosure","enclosure (stone, wire mesh)","India","No. attacks",0
+"Jamwal et al. 2019",1,"before-after","snow leopard","livestock in general","husbandry + non-invasive management","mixed","enclosure (night) + Homestay Programme","India","No. killed/year",0.124704491725768
+"Jamwal et al. 2019",1,"before-after","snow leopard","livestock in general","husbandry + non-invasive management","mixed","enclosure (night) + Homestay Programme","India","No. depredation events (kills)",0.0824025289778714
+"Jamwal et al. 2019",1,"before-after","snow leopard","livestock in general","husbandry + non-invasive management","mixed","enclosure (night) + Homestay Programme","India","No. mass kills",0.13
+"Jankovsky et al. 1974",0,"control-impact","coyote","sheep","aversion","chemical deterrent","napthalene and others","USA","No. killed",0.530701754385965
+"Jelinski et al. 1983",1,"before-after","coyote","sheep (ewe)","aversion","chemical deterrent","LiCl","Canada","No. killed",1.01543738114643
+"Jelinski et al. 1983",1,"before-after","coyote","sheep (lamb)","aversion","chemical deterrent","LiCl","Canada","No. killed",0.318168747682781
+"Johnson et al. 2018",1,"BACI","American black bear","neighborhood safety","non-invasive management","food/garbage isolation","bear-proof bins","USA","No. damage records/residence",0.630766334023724
+"Jope 1985",1,"control-impact","brown bear","neighborhood safety","aversion","acoustic deterrent","neck bell","USA","probability of moving forward and charging",0.388888888888889
+"Kavčič et al. 2013",1,"before-after","brown bear","sheep","non-invasive management","supplemental feeding","supplemental feeding by carrion","Slovenia","No. killed",0.860845588235294
+"Khan 2009",1,"control-impact","tiger","neighborhood safety","husbandry","guarding animals","guarding dogs","Bangladesh","No. tiger-specific barking signals",0.10498687664042
+"Khorozyan et al. 2017",1,"control-impact","leopard","sheep/goats","husbandry","herding","presence of shepherds","Iran","No. killed/attack",0.670270270270272
+"Khorozyan et al. 2017",1,"control-impact","leopard","sheep/goats","husbandry","guarding animals","guarding dogs","Iran","No. killed/attack",0.509803921568627
+"Khorozyan et al. 2020",1,"RCT","leopard","cattle","aversion","physical deterrent","protective collar","Iran","No. killed/period",0
+"Kirilyuk and Ke 2020",1,"control-impact","gray wolf","cattle","husbandry","herding","herding","Russia","No. killed",0
+"Kirilyuk and Ke 2020",1,"control-impact","gray wolf","sheep","husbandry","herding","herding","Russia","No. killed",0
+"Kissui et al. 2019",1,"RCT","leopard","cattle, sheep/goats and donkeys","husbandry","enclosure","fortified boma","Tanzania","No. successes/attack",0
+"Kissui et al. 2019",1,"RCT","spotted hyena","cattle, sheep/goats and donkeys","husbandry","enclosure","fortified boma","Tanzania","No. successes/attack",0.930232558139535
+"Kissui et al. 2019",1,"RCT","black-backed jackal","cattle, sheep/goats and donkeys","husbandry","enclosure","fortified boma","Tanzania","No. successes/attack",1
+"Kissui et al. 2019",1,"RCT","cheetah","cattle, sheep/goats and donkeys","husbandry","enclosure","fortified boma","Tanzania","No. successes/attack",0
+"Knarrum et al. 2006",1,"control-impact","brown bear","sheep","aversion","acoustic deterrent","bell collar","Norway","No. killed",2.55639097744361
+"Kobashikawa et al. 2019",1,"control-impact","Asiatic black bear","tree plantations","aversion","physical deterrent","trunk netting","Japan","No. damage records",0
+"Kolowski and Holekamp 2006",1,"control-impact","spotted hyena","sheep/goats","husbandry","enclosure","fortified boma (pole)","Kenya","% enclosures",0.358974358974359
+"Kolowski and Holekamp 2006",1,"control-impact","spotted hyena","sheep/goats","husbandry","enclosure","fortified boma (bush)","Kenya","% enclosures",2.03421052631579
+"Kolowski and Holekamp 2006",1,"control-impact","leopard","sheep/goats","husbandry","enclosure","fortified boma (pole)","Kenya","% enclosures",2.3858024691358
+"Kolowski and Holekamp 2006",1,"control-impact","leopard","sheep/goats","husbandry","enclosure","fortified boma (bush)","Kenya","% enclosures",0.413479052823315
+"Krogstad et al. 2000",0,"BACI","brown bear","sheep","husbandry","herding","herding","Norway","No. compensated",0.0115417968060533
+"Kuiper et al. 2015",1,"control-impact","lion","cattle","husbandry","herding","herding","Zimbabwe","mean No. killed",1.03926701570681
+"Kuksin and Kuksina 2009",0,"before-after","snow leopard","sheep/goats","husbandry","enclosure","covering of openings by wire mesh","Russia","No. killed",0
+"Kunkel et al. 2016",0,"before-after","snow leopard","livestock in general","non-invasive management","capacity building","insurance","India","No. predators killed",0
+"Lance et al. 2010",1,"RCT","gray wolf","cattle, sheep, llama and horses","husbandry","electric fence + visual deterrent","electrified fladry","USA","No. days inside/outside livestock areas",0
+"Landa and Tømmerås 1996",1,"RCT","wolverine","sheep (lamb)","aversion","chemical deterrent","polyethylene dispensers with chemical agents on sheep wool","Norway","% killed",0.458557811852466
+"Landa et al. 1998",1,"before-after","wolverine","sheep (lamb)","aversion","chemical deterrent","polyethylene dispensers with chemical agents on sheep wool","Norway","No. killed",1.60914018109536
+"Landa et al. 1998",1,"before-after","wolverine","sheep (ewe)","aversion","chemical deterrent","polyethylene dispensers with chemical agents on sheep wool","Norway","No. killed",0.721760237311642
+"Landa et al. 1999",1,"control-impact","wolverine","sheep (Dala replaced by Rygja)","non-invasive management","breed replacement","breed replacement","Norway","No. killed",0.629368521138192
+"Landa et al. 1999",1,"control-impact","wolverine","sheep (Dala replaced by Norwegian short-tailed)","non-invasive management","breed replacement","breed replacement","Norway","No. killed",0.724908963084967
+"Landa et al. 1999",1,"control-impact","wolverine","sheep (Dala replaced by Norwegian fur-bearing)","non-invasive management","breed replacement","breed replacement","Norway","No. killed",0.466184234977755
+"Landriault et al. 2006",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","Canada","No. returning",1
+"Landriault et al. 2009",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","Canada","No. predators resuming damage infliction",0.300813008130081
+"Landriault et al. 2009",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","Canada","proportion of returning individuals",0.471414141414141
+"Landry and Raydelet 2010",0,"before-after","Eurasian lynx","sheep","husbandry","guarding animals","guarding dogs","France","No. killed",0.140625
+"Landry and Raydelet 2010",0,"before-after","domestic dog","sheep","husbandry","guarding animals","guarding dogs","France","No. killed",0.128571428571429
+"Landry and Raydelet 2010",0,"before-after","gray wolf","sheep","husbandry","guarding animals","guarding dogs","France","No. killed",0.142857142857143
+"LeFlore et al. 2020",1,"before-after","lion","cattle, goats, horses and donkeys","husbandry + invasive management + non-invasive management","mixed","enclosure + geofence + education","Botswana","No. killed",0.520751051914081
+"LeFlore et al. 2020",1,"before-after","predators in general","cattle, goats, horses and donkeys","husbandry + invasive management + non-invasive management","mixed","enclosure + geofence + education","Botswana","financial losses in USD",0.484536082474227
+"Leigh 2007",0,"before-after","American black bear","neighborhood safety","aversion","mixed deterrents","rubber bullets + noise","USA","No. returning",1
+"Leigh 2007",0,"before-after","American black bear","neighborhood safety","aversion","mixed deterrents","rubber bullets + noise + dogs","USA","No. returning",0.833333333333333
+"Lesilau et al. 2018",1,"before-after","lion","cattle and sheep/goats","aversion","visual deterrent","flash light","Kenya","No. attacks/boma",0.0380434782608696
+"Levin 2000",0,"control-impact","brown bear","beehive","husbandry","electric fence","electric fence","Sweden","probability of damage",0
+"Lichtenfeld et al. 2015",1,"before-after","lion, leopard, spotted hyena and black-backed jackal","livestock in general","husbandry","enclosure","fortified boma","Tanzania","No. attacks/month",0.112428634167765
+"Lichtenfeld et al. 2015",1,"before-after","lion","livestock in general","husbandry","enclosure","fortified boma","Tanzania","No. predators killed",0
+"Lichtenfeld et al. 2015",1,"before-after","leopard","livestock in general","husbandry","enclosure","fortified boma","Tanzania","No. predators killed",0
+"Lichtenfeld et al. 2015",1,"BACI","lion, leopard, spotted hyena and black-backed jackal","livestock in general","husbandry","enclosure","fortified boma","Tanzania","No. attacks/boma-month",0.113511541332879
+"Linhart 1984",0,"before-after","coyote","sheep","aversion","acoustic deterrent + visual deterrent","siren + strobe light","USA","% killed",0.305
+"Linhart et al. 1979",1,"before-after","coyote","sheep","husbandry","guarding animals","guarding dogs","USA","No. killed/day",0.568364389233954
+"Linhart et al. 1982",1,"control-impact","coyote","sheep","husbandry","electric fence","electric fence","USA","No. killed",0.258620689655172
+"Linhart et al. 1984",1,"before-after","coyote","sheep","aversion","acoustic deterrent + visual deterrent","siren + strobe light","USA","No. killed",0.291428571428571
+"Linhart et al. 1992",0,"before-after","coyote","sheep","aversion","acoustic deterrent + visual deterrent","siren + strobe light","USA","% losses",0.546429799795068
+"Louis et al. 2020",1,"crossover","coyote","sheep/goats","aversion","chemical deterrent","red wolf scats","USA","% nights with coyote camera-trap pictures",1.03571428571429
+"Loveridge et al. 2017",1,"control-impact","lion","cattle","aversion","acoustic deterrent","bell collar","Zimbabwe","No. killed",1.97743355701075
+"Loveridge et al. 2017",1,"control-impact","spotted hyena","cattle","aversion","acoustic deterrent","bell collar","Zimbabwe","No. killed",4.74056245337765
+"Lyamuya et al. 2016",1,"RCT","African wild dog, spotted hyena, lion and leopard","cattle and sheep/goats","husbandry","herding","herding","Tanzania","No. herders that experienced attacks",0.170289855072464
+"MacArthur 1981",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. predators resuming damage infliction and returning",0.611764705882353
+"Macdonald and Baker 2004",1,"before-after","red fox","captive","aversion","chemical deterrent","Bitrex","UK","milk consumption rate in s/hr",0.0135591102224444
+"Maclennan et al. 2009",1,"before-after","lion","cattle, sheep/goats and donkeys","non-invasive management","capacity building","compensation from compensation fund","Kenya","No. predators killed/year",0.8125
+"Mahoney and Charry 2005",1,"RCT","red fox","sheep","husbandry","guarding animals","alpaca","Australia","% died",0.637033833478444
+"Makkay et al. 2010",0,"BACI","American black bear","neighborhood safety","non-invasive management","food/garbage isolation","bear-proof bins","USA","No. camera-trap pictures/day",0.0897435897435897
+"Manoa and Mwaura 2016",1,"control-impact","lion","sheep/goat","husbandry","enclosure","fortified boma","Kenya","% killed",0.08
+"Manoa and Mwaura 2016",1,"control-impact","lion","cattle","husbandry","enclosure","fortified boma","Kenya","% killed",0.147058823529412
+"Manoa and Mwaura 2016",1,"control-impact","lion","donkey","husbandry","enclosure","fortified boma","Kenya","% killed",0
+"Manoa and Mwaura 2016",1,"control-impact","spotted hyena","sheep/goat","husbandry","enclosure","fortified boma","Kenya","% killed",0.108108108108108
+"Manoa and Mwaura 2016",1,"control-impact","spotted hyena","cattle","husbandry","enclosure","fortified boma","Kenya","% killed",0.0625
+"Manoa and Mwaura 2016",1,"control-impact","spotted hyena","donkey","husbandry","enclosure","fortified boma","Kenya","% killed",0
+"Manoa and Mwaura 2016",1,"control-impact","cheetah","sheep/goat","husbandry","enclosure","fortified boma","Kenya","% killed",0
+"Manoa and Mwaura 2016",1,"control-impact","leopard","sheep/goat","husbandry","enclosure","fortified boma","Kenya","% killed",0
+"Manoa and Mwaura 2016",1,"control-impact","leopard","cattle","husbandry","enclosure","fortified boma","Kenya","% killed",0
+"Martin and O'Brien 2000",0,"BACI","coyote","sheep","aversion","chemical deterrent","bone oil = Renardine","Canada","No. killed",0.2667194092827
+"Massei et al. 2003",1,"BACI","red fox","captive","aversion","chemical deterrent","thiabendazole","UK","proportion of food consumed",0.397058823529412
+"Massei et al. 2003",1,"BACI","red fox","captive","aversion","chemical deterrent","levamisole","UK","proportion of food consumed",0.157894736842105
+"Massopust and Anderson 1984",0,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. returning",0.707142857142857
+"Matchett et al. 2013",1,"before-after","coyote","black-footed ferret","husbandry","electric fence","electric fence","USA","% sightings inside/outside",0.119453924914676
+"Mattiello et al. 2012",1,"control-impact","gray wolf","sheep/goats","husbandry","enclosure","enclosure","Italy","% households with chronic predation",0.687693259121831
+"Mattiello et al. 2012",1,"control-impact","gray wolf","sheep/goats","husbandry","guarding animals","guarding dogs","Italy","% households with chronic predation",2.63
+"Mazur 2010",1,"before-after","American black bear","neighborhood safety","aversion","physical deterrent","chasing","USA","% returning",2
+"Mazur 2010",1,"before-after","American black bear","neighborhood safety","aversion","physical deterrent","rocks + slingshots","USA","% returning",1.33333333333333
+"Mazur 2010",1,"before-after","American black bear","neighborhood safety","aversion","physical deterrent","rubber bullets","USA","% returning",0.54
+"Mazur 2010",1,"before-after","American black bear","neighborhood safety","aversion","chemical deterrent","pepper spray","USA","% returning",1.27777777777778
+"Mazzolli et al. 2002",1,"control-impact","puma","sheep","husbandry","enclosure","enclosure (night)","Brazil","No. killed",0.107202867704716
+"Mazzolli et al. 2002",1,"control-impact","puma","swine","husbandry","enclosure","enclosure (night)","Brazil","No. killed",3.13888888888889
+"McManus et al. 2015",1,"before-after","black-backed jackal and caracal","livestock in general","husbandry","guarding animals","guarding dogs","South Africa","% killed/year",0.195854824844187
+"McManus et al. 2015",1,"before-after","black-backed jackal and caracal","livestock in general","husbandry","guarding animals","alpaca","South Africa","% killed/year",0.324444444444444
+"McManus et al. 2015",1,"before-after","black-backed jackal, caracal and leopard","livestock in general","aversion","physical deterrent","protective collar","South Africa","% killed/year",0.318416933859376
+"Meadows and Knowlton 2000",1,"control-impact","American black bear","sheep","husbandry","guarding animals","llama","USA","No. killed",0
+"Meadows and Knowlton 2000",1,"control-impact","puma","sheep","husbandry","guarding animals","llama","USA","No. killed",2.95016611295681
+"Meadows and Knowlton 2000",1,"control-impact","domestic dog","sheep","husbandry","guarding animals","llama","USA","No. killed",2.43388704318937
+"Meadows and Knowlton 2000",1,"control-impact","red fox","sheep","husbandry","guarding animals","llama","USA","No. killed",0.737541528239203
+"Meadows and Knowlton 2000",1,"control-impact","coyote","sheep","husbandry","guarding animals","llama","USA","No. killed",0.361127846728521
+"Meadows and Knowlton 2000",1,"control-impact","coyote, fox and domestic dog","sheep (ewe)","husbandry","guarding animals","llama","USA","proportion of flock killed",0.652173913043478
+"Meadows and Knowlton 2000",1,"control-impact","coyote, fox and domestic dog","sheep (lamb)","husbandry","guarding animals","llama","USA","proportion of flock killed",0.780701754385965
+"Mertens et al. 2002",0,"control-impact","gray wolf and brown bear","sheep","husbandry","electric fence","electric fence","Romania","No. killed",0.0191554571769113
+"Mijiddorj et al. 2018",1,"control-impact","gray wolf","sheep/goats, horses and camels","husbandry","enclosure + herding","enclosure + herding","Mongolia","No. killed",0.236186348862405
+"Mijiddorj et al. 2018",1,"control-impact","snow leopard","sheep/goats, horses and camels","husbandry","enclosure + herding","enclosure + herding","Mongolia","No. killed",0.374207188160676
+"Miller 1987",1,"before-after","polar bear","neighborhood safety","aversion","chemical deterrent","commercial dog + household chemicals","Canada","No. returning",0.925925925925926
+"Miller 1987",1,"before-after","polar bear","neighborhood safety","aversion","acoustic deterrent","noise","Canada","No. returning",0.545454545454545
+"Miller 1987",1,"before-after","polar bear","neighborhood safety","aversion","acoustic deterrent","freon horn","Canada","No. returning",0.666666666666667
+"Miller and Ballard 1982",1,"before-after","brown bear","neighborhood safety","invasive management","translocation","translocation","USA","No. returning",0.6
+"Miller et al. 2011",0,"before-after","tiger","cattle and horses","invasive management","translocation","translocation","Russia","No. predators resuming damage infliction",0
+"Miller et al. 2014",1,"control-impact","coyote","neighborhood safety","aversion","chemical deterrent","Ropel animal repellent","USA","% predators with allured behavior",1.06573957016435
+"Milligan et al. 2018",1,"before-after","brown bear","neighborhood safety, livestock in general, beehives and crops","invasive management","translocation","translocation","Canada","No. failures",0.7
+"Mishra et al. 2003",1,"before-after","snow leopard","livestock in general","non-invasive management","capacity building","insurance","India","No. predators killed",0
+"Mishra et al. 2003",1,"before-after","snow leopard","livestock in general","non-invasive management","capacity building","handcrafts from wool - Snow Leopard Enterprises","Mongolia","No. predators killed",0
+"Mohammad et al. 2016",0,"control-impact","snow leopard","livestock in general","husbandry","enclosure","wire mesh roof","Tajikistan","No. predators killed",0
+"Mohammad et al. 2016",0,"before-after","snow leopard","livestock in general","husbandry","enclosure","thick walls and wire mesh roof","Afghanistan","No. predators killed",0
+"Mohammad et al. 2016",0,"before-after","snow leopard","livestock in general","husbandry","enclosure","thick walls and wire mesh roof","India","No. predators killed",0
+"Mohammad et al. 2016",0,"BACI","snow leopard","livestock in general","husbandry","enclosure","covering of openings by wire mesh","Pakistan","No. predators killed",0
+"Montalvo et al. 2016",1,"control-impact","puma and jaguar","cattle","husbandry","enclosure + herding","enclosure + herding","Costa Rica","% depredation events",0.492307692307692
+"Morehouse and Boyce 2017",1,"before-after","brown bear","cattle","non-invasive management","supplemental feeding","supplemental feeding by carrion","Canada","No. incidents",2.71875
+"Mukesh et al. 2015",1,"before-after","Asiatic black bear","crops","invasive management","translocation","translocation","India","No. returning",0.636363636363636
+"Musiani et al. 2003",1,"before-after","gray wolf","cattle","aversion","visual deterrent","fladry","Canada","No. killed",0
+"Musiani and Visalberghi 2001",1,"control-impact","gray wolf","captive","aversion","visual deterrent","fladry","Italy","% occasions",0.381578947368421
+"Naha et al. 2020",1,"control-impact","leopard","cattle and goats","aversion","visual deterrent","flash light","India","No. killed",0.933729619565217
+"Nass and Threade 1988",1,"before-after","predators in general","sheep","husbandry","electric fence","electric fence","USA","No. killed",0.106060606060606
+"National Project Steering Committee 2014",0,"before-after","dingo","sheep","lethal control","poisoning","baiting (poison)","Australia","No. killed/year",0.223414477898783
+"Nolte et al. 2002",0,"BACI","American black bear","tree plantations","non-invasive management","supplemental feeding","supplemental feeding by feed pellets","USA","No. damage records/year",0.0387008181545642
+"Nuninger et al. 2017",0,"control-impact","gray wolf","bait (beef, chicken)","aversion","acoustic deterrent ","ultrasound mole repeller","Russia","No. feeding events/min",0.253998118532455
+"Nuninger et al. 2017",0,"control-impact","gray wolf","bait (beef, chicken)","aversion","visual deterrent","hanging aluminum sheets","Russia","No. feeding events/min",0.234578627280626
+"Nuninger et al. 2017",0,"control-impact","gray wolf","bait (beef, chicken)","aversion","chemical deterrent","deodorant","Russia","No. feeding events/min",1.70886075949367
+"Nuninger et al. 2017",0,"control-impact","gray wolf","bait (beef, chicken)","aversion","acoustic deterrent ","movement-activated ultrasound garden protector","Russia","No. feeding events/min",0.128571428571429
+"Nuninger et al. 2017",0,"control-impact","gray wolf","bait (beef, chicken)","aversion","acoustic deterrent ","radio","Russia","No. feeding events/min",0.0740131578947368
+"Nuninger et al. 2017",0,"control-impact","gray wolf","bait (beef, chicken)","aversion","chemical deterrent + visual deterrent","burnt sheep wool + red flash light","Russia","No. feeding events/min",0.176470588235294
+"Ogada et al. 2003",1,"control-impact","predators in general","sheep/goats","husbandry","enclosure","fortified boma","Kenya","No. killed/month",0.297619047619048
+"Ogada et al. 2003",1,"control-impact","predators in general","cattle","husbandry","guarding animals","guarding dogs","Kenya","No. killed/month",0.107142857142857
+"Ogada et al. 2003",1,"control-impact","lion","cattle and sheep/goats","husbandry","enclosure","fortified boma","Kenya","proportion of bomas attacked",0.638297872340426
+"Ohrens et al. 2019",1,"crossover","puma","llama and alpaca","aversion","visual deterrent","flash light","Chile","No. attacks",0
+"Ohrens et al. 2019",1,"crossover","Andean fox","llama and alpaca","aversion","visual deterrent","flash light","Chile","No. attacks",1.66666666666667
+"Okemwa et al. 2018",1,"BACI","lion, spotted hyena, leopard and cheetah","cattle","aversion","visual deterrent","LED flash light near bomas","Kenya","No. attacks/6 months",0.352941176470588
+"Okemwa et al. 2018",1,"BACI","lion, spotted hyena, leopard and cheetah","cattle","aversion","visual deterrent","LED flash light near bomas","Kenya","No. killed/6 months",0.24124513618677
+"Otstavel et al. 2009",1,"before-after","gray wolf","cattle, sheep and horses","husbandry","guarding animals","guarding dogs","Finland","No. killed",0
+"Otstavel et al. 2009",1,"before-after","Eurasian lynx","sheep","husbandry","guarding animals","guarding dogs","Finland","No. killed",0
+"Otto and Roloff 2015",1,"control-impact","American black bear","beehive","husbandry","electric fence","electric fence (mobile), design A","USA","No. damage records",0.0576923076923077
+"Otto and Roloff 2015",1,"control-impact","American black bear","beehive","husbandry","electric fence","electric fence (mobile), design B","USA","No. damage records",0
+"Otto and Roloff 2015",1,"control-impact","American black bear","beehive","husbandry","electric fence","electric fence (mobile), design C","USA","No. damage records",0.0625
+"Otto and Roloff 2015",1,"control-impact","American black bear","beehive","husbandry","electric fence","electric fence (mobile), design D","USA","No. damage records",0
+"Pacioni et al. 2018",1,"before-after","dingo","sheep/goats","lethal control","poisoning, trapping and shooting","baiting (poison), trapping and shooting","Australia","predator density",0.545454545454545
+"Palmer et al. 2010",1,"control-impact","coyote, puma and American black bear","sheep","husbandry","guarding animals","guarding dogs","USA","No. killed",0.762101915082454
+"Palmer et al. 2010",1,"control-impact","coyote, puma and American black bear","sheep","husbandry","herding","herding","USA","No. killed",0.526442856434729
+"Papworth et al. 2014",1,"before-after","brown bear","sheep/goats","husbandry","enclosure","enclosure","China","No. killed",0.0185185185185185
+"Peebles et al. 2013",1,"before-after","puma","cattle, sheep/goats, llama, alpaca, swine and horses","lethal control","shooting","preventive hunting","USA","No. killed",0.985714285714286
+"Peirce and Van Daele 2006",1,"control-impact","brown bear","neighborhood safety","non-invasive management","food/garbage isolation","food/garbage removal","USA","No. returning",0.432908492052127
+"Petracca et al. 2019",1,"before-after","lion","cattle, sheep/goats and donkeys","aversion","physical deterrent","chasing","Zimbabwe","No. returning",0.444444444444444
+"Petracca et al. 2019",1,"before-after","lion","cattle, sheep/goats and donkeys","aversion","physical deterrent","chasing","Zimbabwe","No. predators resuming damage infliction",0.75
+"Pfeifer and Goos 1982",0,"before-after","coyote","sheep","husbandry","guarding animals","guarding dogs","USA","No. killed/year",0.0718390804597701
+"Pfeifer and Goos 1982",0,"before-after","coyote","sheep","aversion","visual deterrent","gas exploder","USA","No. killed/day",0
+"Pimenta et al. 2017",1,"control-impact","gray wolf","cattle","husbandry","enclosure","enclosure","Portugal","No. attacks/year",0.311755233494364
+"Poole and McKillop 2002",1,"control-impact","red fox","captive","husbandry","electric fence","electrified strained-wire fence","UK","No. predators that crossed the fence",0
+"Poole and McKillop 2002",1,"control-impact","red fox","captive","husbandry","electric fence","electrified netting fence","UK","No. predators that crossed the fence",0
+"Potgieter et al. 2016",1,"before-after","cheetah","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","% farms reporting kills",0.397435897435897
+"Potgieter et al. 2016",1,"before-after","leopard","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","% farms reporting kills",0.3125
+"Potgieter et al. 2016",1,"before-after","caracal","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","% farms reporting kills",0.261363636363636
+"Potgieter et al. 2016",1,"before-after","black-backed jackal","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","% farms reporting kills",0.398496240601504
+"Potgieter et al. 2016",1,"before-after","cheetah","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","No. predators killed",0
+"Potgieter et al. 2016",1,"before-after","leopard","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","No. predators killed",0
+"Potgieter et al. 2016",1,"before-after","caracal","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","No. predators killed",0.5
+"Potgieter et al. 2016",1,"before-after","black-backed jackal","sheep/goats","husbandry","guarding animals","guarding dogs","Namibia","No. predators killed",0.705882352941177
+"Poudyal et al. 2016",1,"before-after","gray wolf","cattle","lethal control","shooting","shooting","USA","No. killed",0.981
+"Poudyal et al. 2016",1,"before-after","gray wolf","sheep","lethal control","shooting","shooting","USA","No. killed",0.966
+"Quigley et al. 2015",1,"before-after","jaguar","cattle","husbandry","electric fence","electric fence","Costa Rica","No. killed",0
+"Quigley et al. 2015",1,"before-after","jaguar","cattle","husbandry","electric fence","electric fence","Venezuela","No. killed",0
+"Quigley et al. 2015",1,"before-after","jaguar","cattle","husbandry","guarding animals + enclosure","guarding donkeys + enclosure (night)","Belize","No. killed",0
+"Quigley et al. 2015",1,"before-after","jaguar","cattle","husbandry","enclosure","enclosure (night)","Brazil","No. depredation events (kills)",0.166666666666667
+"Quigley et al. 2015",1,"before-after","jaguar","cattle","husbandry","guarding animals","water buffalo or Creole cattle breeds","Costa Rica, Columbia and Brazil","No. killed",0
+"Rabinowitz 1986",1,"before-after","jaguar","cattle","invasive management","translocation","translocation","Belize","No. predators resuming damage infliction",1
+"Radford et al. 2020",1,"RCT","lion","cattle","aversion","visual deterrent","artificial eyespots on rump","Botswana","No. killed",0
+"Radford et al. 2020",1,"RCT","leopard","cattle","aversion","visual deterrent","artificial eyespots on rump","Botswana","No. killed",0
+"Radford et al. 2020",1,"RCT","spotted hyena","cattle","aversion","visual deterrent","artificial eyespots on rump","Botswana","No. killed",1.00878477306003
+"Rauer et al. 2003",1,"before-after","brown bear","neighborhood safety","aversion","mixed deterrents","rubber bullets + cracker shells + fireworks + warning shots","Austria","No. returning",0.857142857142857
+"Ribeiro and Petrucci-Fonseca 2005",0,"before-after","gray wolf","sheep/goats","husbandry","guarding animals","guarding dogs","Portugal","No. killed",0.625
+"Rigg 2004",0,"control-impact","gray wolf","sheep/goats","husbandry","guarding animals","guarding dogs","Slovakia","mean No. killed",0.205882352941176
+"Rigg 2004",0,"control-impact","brown bear","sheep/goats","husbandry","guarding animals","guarding dogs","Slovakia","mean No. killed",0.444444444444444
+"Rigg et al. 2011",1,"control-impact","gray wolf","sheep","husbandry","enclosure","enclosure (night)","Slovakia","No. killed",0.25
+"Rigg et al. 2011",1,"control-impact","brown bear","sheep","husbandry","enclosure","enclosure (night)","Slovakia","No. killed",0.04
+"Riley et al. 1994",1,"before-after","brown bear","livestock in general","invasive management","translocation","translocation","USA","No. predators resuming damage infliction",0.695652173913043
+"Riley et al. 1994",1,"before-after","brown bear","neighborhood safety","invasive management","translocation","translocation","USA","No. predators resuming damage infliction",0.441860465116279
+"Riley et al. 1994",1,"before-after","brown bear","beehive","invasive management","translocation","translocation","USA","No. predators resuming damage infliction",1
+"Robel et al. 1981",1,"control-impact","coyote","sheep","non-invasive management","breeding control","breeding control","USA","% killed/month",1.47368421052632
+"Robel et al. 1981",1,"control-impact","coyote","sheep","non-invasive management","food/garbage isolation","carcass disposal","USA","% killed/month",0.706572769953052
+"Robel et al. 1981",1,"control-impact","coyote","sheep","husbandry","guarding animals","guarding dogs","USA","% killed/month",1.82222222222222
+"Robel et al. 1981",1,"control-impact","coyote","sheep","husbandry","enclosure","enclosure (night)","USA","% killed/month",0.655339805825243
+"Robel et al. 1981",1,"control-impact","coyote","sheep","husbandry","enclosure","enclosure","USA","% killed/month",0.0922330097087379
+"Robel et al. 1981",1,"control-impact","domestic dog","sheep","non-invasive management","breeding control","breeding control","USA","% killed/month",2.26666666666667
+"Robel et al. 1981",1,"control-impact","domestic dog","sheep","husbandry","guarding animals","guarding dogs","USA","% killed/month",0.151515151515152
+"Robel et al. 1981",1,"control-impact","domestic dog","sheep","husbandry","enclosure","enclosure (night)","USA","% killed/month",0.143884892086331
+"Robel et al. 1981",1,"control-impact","domestic dog","sheep","husbandry","enclosure","enclosure","USA","% killed/month",0.0431654676258993
+"Rogers 1984",1,"before-after","American black bear","neighborhood safety","aversion","chemical deterrent","capsaicin","USA","No. returning",0.2
+"Rogers 1986",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","No. returning",0.456369047619048
+"Rogers 2011",1,"before-after","American black bear","neighborhood safety","non-invasive management","supplemental feeding","supplemental feeding by feed pellets","USA","No. nuisance animals/year",0.125
+"Rosas-Rosas and Valdez 2010",1,"before-after","jaguar","cattle","non-invasive management","capacity building","compensation from trophy hunting of prey","Mexico","No. predators killed",0
+"Ross and Jalkotzy 1996",0,"before-after","puma","sheep/goats","invasive management","translocation","translocation","Canada","No. predators resuming damage infliction",0.333333333333333
+"Rossler et al. 2012",1,"BACI","gray wolf","bait (deer)","invasive management","shock collar","shock collar","USA","No. visits/day",0.250909090909091
+"Rust et al. 2013",1,"before-after","cheetah","cattle","husbandry","guarding animals","guarding dogs","South Africa","No. killed",0
+"Rust et al. 2013",1,"before-after","cheetah","sheep","husbandry","guarding animals","guarding dogs","South Africa","No. killed",0.00155183116076971
+"Rust et al. 2013",1,"before-after","cheetah","goats","husbandry","guarding animals","guarding dogs","South Africa","No. killed",0.00326663944467129
+"Rust et al. 2013",1,"before-after","cheetah","sheep/goats","husbandry","guarding animals","guarding dogs","South Africa","No. killed",0
+"Rust et al. 2013",1,"before-after","cheetah","sheep/goats","husbandry","guarding animals","guarding dogs","South Africa","% losses/farm",0.00574712643678161
+"Sagør et al. 1997",1,"before-after","brown bear","sheep","lethal control","shooting","shooting","Norway","% killed",1.34174311926606
+"Saitone and Bruno 2020",1,"before-after","coyote","sheep (lamb)","husbandry","guarding animals","guarding dogs","USA","% killed/year",0.584745762711864
+"Saitone and Bruno 2020",1,"before-after","coyote","sheep (ewe)","husbandry","guarding animals","guarding dogs","USA","% killed/year",0.71875
+"Salkina 2000",0,"before-after","tiger","cattle, goats, swine and horses","aversion","acoustic deterrent","air shots","Russia","No. returning",1.33333333333333
+"Salkina 2000",0,"before-after","tiger","cattle, goats, swine and horses","aversion","acoustic deterrent + visual deterrent","light + rockets","Russia","No. returning",0.0416666666666667
+"Salkina 2000",0,"before-after","tiger","cattle, goats, swine and horses","aversion","chemical deterrent","LiCl or pepper","Russia","No. returning",0
+"Salvatori and Mertens 2012",1,"before-after","gray wolf","livestock in general","husbandry","electric fence","electric fence","Portugal","No. attacks/year",0
+"Salvatori and Mertens 2012",1,"before-after","gray wolf","livestock in general","husbandry","guarding animals","guarding dogs","Portugal","No. killed/year",0.576576576576577
+"Salvatori and Mertens 2012",1,"before-after","gray wolf","livestock in general","husbandry","electric fence","electric fence","Spain","No. killed",0.01
+"Salvatori and Mertens 2012",1,"before-after","gray wolf","livestock in general","husbandry","guarding animals","guarding dogs","Spain","No. killed",0.350993377483444
+"Salvatori and Mertens 2012",1,"before-after","gray wolf","livestock in general","husbandry","electric fence","electric fence","Italy","No. killed",0.422
+"Salvatori and Mertens 2012",1,"before-after","gray wolf","livestock in general","husbandry","electric fence","electric fence","Croatia","No. killed",0
+"Sampson and Brohn 1955",1,"before-after","coyote, red fox, gray fox, bobcat and wild dog","livestock and poultry in general","lethal control","trapping","trapping","USA","financial losses in USD",0.194474768634625
+"Santiago-Avila et al. 2018",1,"before-after","gray wolf","cattle and sheep/goats","lethal control","trapping","shooting","USA","probability of depredation",0.825
+"Schultz et al. 2005",1,"control-impact","gray wolf","cattle","invasive management","shock collar","shock collar","USA","No. killed",0
+"Schumann et al. 2006",1,"control-impact","cheetah","livestock and game","husbandry","enclosure","swing gates","Namibia","No. predators passing",0
+"Schumann et al. 2006",1,"control-impact","leopard","livestock and game","husbandry","enclosure","swing gates","Namibia","No. predators passing",0
+"Seidler 2009",0,"BACI","coyote","pronghorn antelope","invasive management","sterilization","surgery","USA","No. killed",0.61703760552571
+"Seijas et al. 2016",0,"before-after","brown bear","beehive","husbandry","electric fence","electric fence","Spain","No. damage records",0.416666666666667
+"Selebatso et al. 2008",1,"control-impact","cheetah","cattle (calves), sheep/goats and small game","husbandry","guarding animals","guarding dogs","Botswana","% farmers reporting losses",0.15
+"Shivik et al. 2003",1,"RCT","gray wolf","captive","aversion","acoustic and visual deterrents","infrared-activated sounds and strobe light","USA","proportion of food consumed",0.165898617511521
+"Shivik et al. 2003",1,"RCT","gray wolf","captive","invasive management","shock collar","shock collar","USA","proportion of food consumed",0.511520737327189
+"Shivik et al. 2003",1,"BACI","gray wolf","bait (deer)","aversion","visual deterrent","fladry","USA","kg food consumed",1.25
+"Shivik et al. 2003",1,"BACI","gray wolf","bait (deer)","aversion","acoustic and visual deterrents","infrared-activated sounds and strobe light","USA","kg food consumed",0.592178770949721
+"Shivik et al. 2011a",1,"before-after","American black bear","crops","invasive management","translocation","translocation","USA","No. recaptured",0.0384615384615385
+"Shivik et al. 2011b",1,"RCT","coyote","captive","aversion","chemical deterrent","coyote urine","USA","No. occurrences",5.28240740740741
+"Shivik and Martin 2000",0,"control-impact","coyote","captive","aversion","acoustic deterrent","siren","USA","No. predators habituating",0.428571428571429
+"Shivik and Martin 2000",0,"before-after","gray wolf","cattle","invasive management + acoustic deterrent","GPS collar-activated acoustic and visual deterrents","GPS collar-activated sounds and strobe light","USA","No. killed",0
+"Singer and Bratton 1980",1,"before-after","American black bear","neighborhood safety","invasive management","translocation","translocation","USA","probability of return",0.525
+"Singh and Gibson 2011",1,"before-after","lion","livestock in general","non-invasive management","resettlement of people","resettlement of people","India","livestock occurrence in diet",0.333333333333333
+"Smith et al. 2008",1,"before-after","American black bear","neighborhood safety","aversion","chemical deterrent","pepper spray","USA","No. returning",0.1
+"Smith et al. 2008",1,"before-after","brown bear","neighborhood safety","aversion","chemical deterrent","pepper spray","USA","No. returning",0.08
+"Smith et al. 2008",1,"before-after","polar bear","neighborhood safety","aversion","chemical deterrent","pepper spray","USA","No. returning",0
+"Smith et al. 2012",1,"before-after","American black bear","neighborhood safety","aversion","acoustic deterrent","discharging firearms","USA","No. returning",0.0714285714285714
+"Smith et al. 2012",1,"before-after","brown bear","neighborhood safety","aversion","acoustic deterrent","discharging firearms","USA","No. returning",0.531645569620253
+"Smith et al. 2012",1,"before-after","polar bear","neighborhood safety","aversion","acoustic deterrent","discharging firearms","USA","No. returning",0.5
+"Stahl et al. 2001",1,"before-after","Eurasian lynx","sheep","lethal control","poisoning, trapping and shooting","selective removal","France","No. attacks",0.491061577488849
+"Stander 1990",1,"before-after","lion","cattle and goats","invasive management","translocation","translocation","Namibia","No. predators resuming damage infliction",0.341666666666667
+"Stone et al. 2017",1,"control-impact","gray wolf","sheep","husbandry + aversion","herding, guarding animals and deterrents","herding + guarding dogs + deterrents","USA","No. killed/year",0.269343780607248
+"Stoynov et al. 2014",1,"before-after","gray wolf","cattle","non-invasive management","livestock replacement","replacement of sheep/goats by cattle","Bulgaria","% killed",0
+"Stringham and Bryant 2015",1,"before-after","American black bear","neighborhood safety","non-invasive management","supplemental feeding","supplemental feeding by fruits","USA","No. damage records",0.295
+"Sutton et al. 2017",1,"control-impact","lion","cattle and sheep/goats","husbandry","enclosure","fortified boma","Kenya","No. killed/month",0.364583333333333
+"Swanson and Scott 1973",0,"before-after","coyote","sheep (lamb)","aversion","chemical deterrent","napthalene and others","USA","% losses",0.460182767624021
+"Ternent and Garshelis 1999",1,"before-after","American black bear","neighborhood safety","aversion","chemical deterrent","thiabendazole","USA","% foods tasted or consumed after treatment ",1.27272727272727
+"Thomson 1986",1,"before-after","dingo","sheep","lethal control","poisoning","baiting (poison)","Australia","% of predators surviving",0.134615384615385
+"Thomson et al. 2000",1,"before-after","red fox","sheep","lethal control","poisoning","baiting (poison)","Australia","proportion of predator population surviving",0.261666666666667
+"Thompson 1979",1,"RCT","coyote","captive","husbandry","electric fence","electric fence","USA","% successes to cross",1.27056441407239
+"Till and Knowlton 1983",1,"BACI","coyote","sheep","lethal control","denning","removal of pups only","USA","No. killed",0.100671140939597
+"Till and Knowlton 1983",1,"BACI","coyote","sheep","lethal control","denning","removal of adults and pups","USA","No. killed",0.0204081632653061
+"Tiwari et al. 2020",1,"control-impact","snow leopard","cattle, sheep/goats, yak and horses","husbandry","herding","herding","Nepal","No. killed",0.549520766773163
+"Tobajas et al. 2020",1,"before-after","gray wolf","captive","aversion","chemical deterrent","levamisole + vanilla odor","Spain","probability of meat consumption",0.311111111111111
+"Treves et al. 2002",1,"before-after","gray wolf","livestock in general","invasive management","translocation","translocation","USA","No. predators resuming damage infliction",0
+"Treves et al. 2010",1,"before-after","American black bear","livestock in general, beehives and crops","lethal control","trapping and shooting","trapping and shooting","USA","No. damage records",0.73915318568307
+"Treves et al. 2010",1,"before-after","American black bear","neighborhood safety","lethal control","trapping and shooting","trapping and shooting","USA","No. damage records",1.23761392668648
+"Tshering and Thinley 2017",1,"control-impact","dhole","cattle, goats, horses and pigs","husbandry","herding","herding","Bhutan","No. killed",0.120253164556962
+"Tshering and Thinley 2017",1,"control-impact","leopard","cattle, goats, horses and pigs","husbandry","herding","herding","Bhutan","No. killed",0.0614035087719298
+"Tshering and Thinley 2017",1,"control-impact","Asiatic black bear","cattle, goats, horses and pigs","husbandry","herding","herding","Bhutan","No. killed",0
+"Tshering and Thinley 2017",1,"control-impact","tiger","cattle, goats, horses and pigs","husbandry","herding","herding","Bhutan","No. killed",0.0555555555555556
+"Tumenta et al. 2013",1,"control-impact","lion","cattle and sheep/goats","husbandry","enclosure","enclosure (night)","Cameroon","No. killed",0.5
+"Tumenta et al. 2013",1,"control-impact","lion, spotted hyena and golden jackal","cattle and sheep/goats","husbandry","enclosure","enclosure (night)","Cameroon","No. killed",0.8
+"Tumenta et al. 2013",1,"control-impact","lion, spotted hyena and golden jackal","cattle and sheep/goats","husbandry","herding","herding (children)","Cameroon","No. killed",3.38412698412698
+"Tumenta et al. 2013",1,"control-impact","lion, spotted hyena and golden jackal","cattle and sheep/goats","husbandry","guarding animals","guarding dogs","Cameroon","No. killed",0.646133693235948
+"Van Bommel and Johnson 2012",1,"before-after","dingo","sheep/goats","husbandry","guarding animals","guarding dogs","Australia","No. respondents with depredation",0.0247311827956989
+"Van Der Meulen 1977",1,"before-after","lion","livestock in general","invasive management","translocation","translocation","Zimbabwe","No. returning",0.5
+"Van Der Weyde et al. 2020",1,"before-after","caracal","goats","husbandry","guarding animals","guarding dogs","Botswana","proportion of losses",0.916666666666667
+"Van Der Weyde et al. 2020",1,"before-after","cheetah","goats","husbandry","guarding animals","guarding dogs","Botswana","proportion of losses",0.526315789473684
+"Van Der Weyde et al. 2020",1,"before-after","spotted hyena","goats","husbandry","guarding animals","guarding dogs","Botswana","proportion of losses",0
+"Van Der Weyde et al. 2020",1,"before-after","black-backed jackal","goats","husbandry","guarding animals","guarding dogs","Botswana","proportion of losses",1.07407407407407
+"Van Der Weyde et al. 2020",1,"before-after","leopard","goats","husbandry","guarding animals","guarding dogs","Botswana","proportion of losses",2
+"Van Der Weyde et al. 2020",1,"before-after","lion","goats","husbandry","guarding animals","guarding dogs","Botswana","proportion of losses",0
+"Van Liere et al. 2013",1,"control-impact","gray wolf","sheep","husbandry","guarding animals","guarding dogs","Slovenia","probability of depredation",1.23255813953488
+"VerCauteren et al. 2003",0,"RCT","coyote","sheep","aversion","acoustic and visual deterrents","sound CD, pop-up scarecrow and strob light activated by predators","USA","No. killed",0
+"Villalba et al. 2016",0,"before-after","puma and jaguar","cattle","aversion","visual deterrent","LED flash light","Paraguay","No. killed/year",0
+"Wagner and Conover 1999",1,"control-impact","coyote","sheep (lamb)","lethal control","shooting","shooting","USA","No. killed",0.372879840890299
+"Walking for Lions 2016",0,"before-after","lion","livestock in general","aversion","acoustic deterrent + visual deterrent","strobe light + siren","Botswana","No. visitations/farm/year",0.397590361445783
+"Wallach et al. 2017",1,"before-after","dingo","cattle (calves)","non-invasive management","cessation of hunting and waterhole drilling","cessation of hunting and waterhole drilling","Australia","No. killed/yr",0.111111111111111
+"Wam et al. 2004",0,"control-impact","gray wolf","sheep","husbandry","electric fence","electric fence","Norway","No. killed",0.138888888888889
+"Weilenmann et al. 2010",1,"before-after","leopard","livestock in general","invasive management","translocation","translocation","Botswana","No. predators resuming damage infliction",0.75
+"Weise et al. 2015a",1,"before-after","cheetah","cattle and sheep/goats","invasive management","translocation","translocation","Namibia","No. predators resuming damage infliction",0
+"Weise et al. 2015b",1,"before-after","leopard","cattle and sheep","invasive management","translocation","translocation","Namibia","No. predators resuming damage infliction",0.25
+"Weise et al. 2015c",1,"before-after","brown hyena","cattle","invasive management","translocation","translocation","Namibia","No. predators resuming damage infliction",0
+"Weise et al. 2018",1,"BACI","lion","cattle","husbandry","enclosure","fortified boma","Botswana","% losses",0
+"Weise et al. 2019",1,"BACI","lion","cattle","invasive management","geofence","geofence triggering SMS alert from GPS collars to locals when crossed by predators","Botswana","annual loss in USD",0.4135
+"Willisch et al. 2015",0,"BACI","gray wolf","sheep/goats","husbandry","guarding animals","guarding dogs","Switzerland","No. killed/year",0.0980392156862745
+"Wilson et al. 2005",1,"RCT","brown bear","beehive","husbandry","electric fence","electric fence","USA","No. damage records/unit",2.16666666666667
+"Witmer and Pipas 2020",0,"BACI","American black bear","tree plantations","aversion","chemical deterrent","Hot Sauce - capsaicin","USA","% damaged records",0.6
+"Witmer and Pipas 2020",0,"BACI","American black bear","tree plantations","aversion","chemical deterrent","brown bear scats","USA","% damaged records",0.641711229946524
+"Witmer and Pipas 2020",0,"BACI","American black bear","tree plantations","aversion","chemical deterrent","Tree Guard - denatonium benzoate","USA","% damaged records",0.72093023255814
+"Woodroffe et al. 2007",1,"control-impact","African wild dog","sheep/goats","husbandry","herding","herding (children)","Kenya","No. killed",2.125
+"Woodroffe et al. 2007",1,"control-impact","African wild dog","sheep/goats","husbandry","guarding animals","guarding dogs","Kenya","No. killed",4.01
+"Woodroffe et al. 2007",1,"control-impact","cheetah","sheep/goats","husbandry","guarding animals","guarding dogs","Kenya","No. killed",0.28
+"Woodroffe et al. 2007",1,"control-impact","leopard","sheep/goats","husbandry","guarding animals","guarding dogs","Kenya","No. killed",0.091
+"Woodroffe et al. 2007",1,"control-impact","leopard","sheep/goats","aversion","visual deterrent","scarecrow","Kenya","No. killed",1.54
+"Woodroffe et al. 2007",1,"control-impact","spotted hyena","sheep/goats","husbandry","enclosure","fortified boma, thin walls","Kenya","No. killed",0.99
+"Woodroffe et al. 2007",1,"control-impact","spotted hyena","sheep/goats","husbandry","enclosure","swing gates","Kenya","No. killed",1.39
+"Woodroffe et al. 2007",1,"control-impact","spotted hyena","sheep/goats","husbandry","guarding animals","guarding dogs","Kenya","No. killed",0.3
+"Wooldridge 1983",1,"before-after","polar bear","neighborhood safety","aversion","acoustic deterrent","aggressive bear sounds","Canada","No. returning/year",0.274774774774775
+"Wooldridge 1983",1,"before-after","polar bear","neighborhood safety","husbandry","electric fence","electric fence","Canada","No. repels/year",1.63636363636364
+"Wooldridge and Belton 1980",1,"before-after","American black bear","neighborhood safety","aversion","acoustic deterrent","aggressive bear sounds","Canada","No. returning",1
+"Wooldridge and Belton 1980",1,"before-after","polar bear","neighborhood safety","aversion","acoustic deterrent","aggressive bear sounds","Canada","No. returning",0.263157894736842
+"Wooldridge and Belton 1980",1,"before-after","polar bear","captive","aversion","acoustic deterrent","aggressive bear sounds","Canada","No. returning",0.4
+"Wooldridge and Belton 1980",1,"before-after","brown bear","captive","aversion","acoustic deterrent","aggressive bear sounds","Canada","No. returning",0
+"Yamazaki 2003",1,"control-impact","Asiatic black bear","tree plantations","non-invasive management","vegetation care","pruning","Japan","% damaged trees",0.996694214876033
+"Yamazaki 2003",1,"control-impact","Asiatic black bear","tree plantations","non-invasive management","vegetation care","brush clearing","Japan","% damaged trees",0.792443064182195
+"Zarco-González and Monroy-Vilchis 2014",1,"control-impact","puma and jaguar","cattle","aversion","acoustic deterrent + visual deterrent","different sounds + scarecrow","Mexico","No. attacks",0
+"Zarco-González and Monroy-Vilchis 2014",1,"control-impact","puma and jaguar","goats","aversion","acoustic deterrent + visual deterrent","different sounds + scarecrow","Mexico","No. attacks",0
+"Zemlicka and Mason 2000",0,"before-after","coyote","captive, experiment 1","aversion","chemical deterrent","bone oil = Renardine","Canada","No. feeding events/day",1.38650306748466
+"Zemlicka and Mason 2000",0,"before-after","coyote","captive, experiment 2","aversion","chemical deterrent","bone oil = Renardine","Canada","No. feeding events/day",0.617021276595745
+"Ziegltrum 1994",0,"before-after","American black bear","tree plantations","non-invasive management","supplemental feeding","supplemental feeding by feed pellets","USA","% damage records",0.0316041079052557
+"Ziegltrum 2004",1,"BACI","American black bear","tree plantations","non-invasive management","supplemental feeding","supplemental feeding by feed pellets","USA","No. damage records/year",0.266570126160643
+"Zimmermann et al. 2003",1,"control-impact","brown bear","sheep","non-invasive management","livestock replacement","replacement of sheep by cattle","Norway","No. killed",0.00222134193967333
