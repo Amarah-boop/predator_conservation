@@ -2,32 +2,44 @@
 title: "Predator_Conservation_EDA"
 author: "Khadijah Amarah Moosa"
 date: "2025-02-20"
-output: pdf_document
+output: html_document
 ---
 
-```{r setup, include=FALSE}
+
+## Configuring knitr
+I set up a R markdown document by configuring knitr options.
+I did this to ensure that my R code is visible in my final document but my setup chunk is hidden. 
+
+```{r setup, include=TRUE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
 
-Write here ---------------------------------------------------
+## Load essential R libraries
+I loaded essential R libraries for data handling and visualization.
+I did this to ensure my necessary libraries are available for data processing and visualizing in my R session.
 
 ```{r loading libraries}
-library(openxlsx)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
 ```
 
-------------------------------------------------
+
+## Load raw data into R for analysis
+I read the excel file into R using the read.xlsx function from the openxlsx package.
+I did this to ensure that the raw data is loaded into R for analysis.
+
 ```{r reading file}
-raw_data <- read.xlsx("C:/Users/Student/Documents/GitHub Deliverable/predator_conservation/NonJournalRawData.xlsx")
+raw_data <- read.csv("C:/Users/Student/Documents/GitHub Deliverable/predator_conservation/NonJournalRawDataIN.csv", sep = ",")
 
 ```
 
 
-WRITE-------------------------------
+## Perform inital checks on imported dataset
+I performed initial checks on the imported dataset. 
+I did this to confirm that the dataset is corretly imported and to get an overview of its structure before further processing.
+
 ```{r EDA}
 
 # check top 5 rows to ensure data loaded correctly 
@@ -37,13 +49,19 @@ head(raw_data, 5)
 colnames(raw_data)
 
 ```
+
+
+## Tidy dataset
+I tidied the dataset by renaming columns to more readable and consistent names.
+I did this to improve the readability of the data and to make subsequent analysis easier to work with.
+
 ```{r tidy data}
 
 # rename columns
 tidy_data <- raw_data %>%
   rename(
     Paper = `Paper`,
-    Journal = `Journal.(1)/non-journal(0)`,  # Renaming for clarity
+    Journal = `Journal..1..non.journal.0.`,  # Renaming for clarity
     Study_Design = `Study.design`,
     Predator_Species = `Predator.species`,
     Protected_Assets = `Protected.assets`,
@@ -59,7 +77,14 @@ tidy_data <- raw_data %>%
 head(tidy_data)
 
 ```
----------------------------------------------
+
+
+## Clean data and prepare for further analysis
+I separated multiple values into different rows and I converted various columns
+to appropriate data types. I also checked to structure of the dataset after the transformations and 
+confirmed the changes that I made to the column types.
+I did these steps to clean the data and prepare it for further analysis.
+
 ```{r}
 
 # Separate multiple values into different rows
@@ -91,6 +116,9 @@ str(tidy_data)
 ```
 
 
+## Create summary dataset and visualize relationship of the dataset
+I created a summary dataset and visualized the relationship between Study Design and Relative Risk (RR), grouped by journal type. I created a scatter plot with  error bars.
+
 ```{r}
 summary_data <- tidy_data %>%
   group_by(Study_Design, Journal) %>%
@@ -102,7 +130,8 @@ summary_data <- tidy_data %>%
     .groups   = "drop"
   )
 
-ggplot(summary_data, aes(x = Study_Design, y = median_RR, color = factor(Journal))) +
+ggplot(summary_data, aes(x = Study_Design, y = median_RR, color 
+                         = factor(Journal))) +
   geom_point(
     position = position_dodge(width = 0.5),
     size = 4
@@ -138,4 +167,5 @@ ggplot(summary_data, aes(x = Study_Design, y = median_RR, color = factor(Journal
   
 ```
 
-Figure 1:xxxxxx-------------
+
+Figure 1: This graph illustrates how the median Relative Risk (RR) varies by  Study Design and it also determines whether the study is from a journal or  non-journal source. The error bars represent the range of minimum to maximum RR, and the counts of studies are labelled at the top of the bars.
