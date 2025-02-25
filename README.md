@@ -1,7 +1,7 @@
 # predator_conservation
 This repository intends to store a reproducible exploratory data analysis exercise with data from an open access scientific paper.
 
-Importance of non-journal literature in providing evidence for predator conservation.
+Khorozyan, I., 2022. Importance of non-journal literature in providing evidence for predator conservation. Perspectives in Ecology and Conservation, 346-351.
 
 Description
 This project investigates how various study designs and journal sources affect relative risk (RR) values by analyzing data on predator conservation interventions.  Numerous predator species, protected assets, intervention kinds, and research papers are all included in the dataset.
