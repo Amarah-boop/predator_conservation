@@ -27,7 +27,7 @@ library(ggplot2)
 
 
 ## Load raw data into R for analysis
-I read the excel file into R using the read.xlsx function from the openxlsx package.
+I read the csv file into R using the read.csv function.
 I did this to ensure that the raw data is loaded into R for analysis.
 
 ```{r reading file}
